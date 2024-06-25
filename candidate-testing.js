@@ -11,7 +11,7 @@ let candidateAnswer;
 
 
 //TODO: Variables for Part 2
-let questions;
+let questions = ["Who was the first American woman in space? ", ]
 let correctAnswers;
 let candidateAnswers;
 
